@@ -2,7 +2,7 @@
 
 # Project: Ecommerce Website/ name pending 
 
-##Goal: functioning Ecommerce website 
+## Goal: functioning Ecommerce website 
 
 ### MVP
 * splash page 
