@@ -1,7 +1,7 @@
 # Name: PJ Perry 
 
-# Name of Project: Ecommerce Website/ name pending 
-## Project Goal: functioning Ecommerce website 
+#Project: Ecommerce Website/ name pending 
+##Goal: functioning Ecommerce website 
 
 ### MVP
 * splash page 
