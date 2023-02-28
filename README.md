@@ -31,4 +31,15 @@
 * 2:00: Create test project using Hydrogen frame work
 * 3:00: watch more videos on hydrogen to better understand the file structure
 
+#### Friday, 2/24
+* 11:00: decided to go a different route with my Capstone did some research on how to make a video game 
+* 11:30: downloaded Unity a Game developing software
+* 12:00: watch some tutorials on making my own game 
+* 1:00: started a test project working through a tutorial 
+* 2:00:worked through the same tutorial 
+* 3:00: started reasearching different ideas for my capstone realizing making a game might be too much 
+
+
+
+
 
